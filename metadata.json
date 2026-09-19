@@ -1,0 +1,6 @@
+{
+  "name": "CareerPath AI",
+  "description": "AI-powered career planning and roadmap platform for Indian engineering students",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
